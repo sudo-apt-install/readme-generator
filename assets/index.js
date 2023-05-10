@@ -26,7 +26,7 @@ function init() {
         name: "contributions",
       },
       {
-        type: "rawlist",
+        type: "list",
         message: "What Liscense will you be using?: ",
         choices: [
           "MIT",
